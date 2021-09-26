@@ -8,6 +8,15 @@ const Podcasts = () => {
   return (
     <div className="episode-list">
       <div className="filter-bar">
+        <span>Filter Results: </span>
+        <input
+          type="text"
+          id="episode-filter"
+          placeholder="Search..."
+          // onChange={onFilterTextChange}
+        />
+      </div>
+      <div className="filter-bar">
         {episodesJson.episodes.map(item => {
           return (
             <PodcastItem

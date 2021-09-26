@@ -1,7 +1,8 @@
 .episode-list {
   padding: 10px;
   margin: 10px auto;
-  max-width: 700px;
+  max-width: 1000px;
+  padding-top: 75px;
 }
 
 .filter-bar {
@@ -9,7 +10,7 @@
   margin-bottom: 10px;
 }
 
-#station-filter {
+#episode-filter {
   border: 1px solid #666666;
   border-radius: 5px;
   margin-right: 0px;
