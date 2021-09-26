@@ -1,0 +1,125 @@
+{
+  "episodes": [
+    {
+      "id": 1,
+      "name": "A Podcast Name",
+      "type": "Filmdragerad tablett",
+      "episide": "1",
+      "duration": "20mins",
+      "description": "Paracetamol",
+      "color": "3a62e8",
+      "image": "https://www.apoteket.se/produktbilder/Validoo/097610s.jpg"
+    },
+    {
+      "id": 2,
+      "name": "A Podcast Name",
+      "type": "Filmdragerad tablett",
+      "episide": "2",
+      "duration": "20mins",
+      "description": "Paracetamol",
+      "color": "3a62e8",
+      "image": "https://www.apoteket.se/produktbilder/Validoo/097610s.jpg"
+    },
+    {
+      "id": 3,
+      "name": "A Podcast Name",
+      "type": "Filmdragerad tablett",
+      "episide": "3",
+      "duration": "20mins",
+      "description": "Paracetamol",
+      "color": "3a62e8",
+      "image": "https://www.apoteket.se/produktbilder/Validoo/097610s.jpg"
+    },
+    {
+      "id": 4,
+      "name": "A Podcast Name",
+      "type": "Filmdragerad tablett",
+      "episide": "4",
+      "duration": "20mins",
+      "description": "Paracetamol",
+      "color": "3a62e8",
+      "image": "https://www.apoteket.se/produktbilder/Validoo/097610s.jpg"
+    },
+    {
+      "id": 5,
+      "name": "A Podcast Name",
+      "type": "Filmdragerad tablett",
+      "episide": "5",
+      "duration": "20mins",
+      "description": "Paracetamol",
+      "color": "3a62e8",
+      "image": "https://www.apoteket.se/produktbilder/Validoo/097610s.jpg"
+    },
+    {
+      "id": 6,
+      "name": "A Podcast Name",
+      "type": "Filmdragerad tablett",
+      "episide": "6",
+      "duration": "20mins",
+      "description": "Paracetamol",
+      "color": "3a62e8",
+      "image": "https://www.apoteket.se/produktbilder/Validoo/097610s.jpg"
+    },
+    {
+      "id": 7,
+      "name": "A Podcast Name",
+      "type": "Filmdragerad tablett",
+      "episide": "7",
+      "duration": "20mins",
+      "description": "Paracetamol",
+      "color": "3a62e8",
+      "image": "https://www.apoteket.se/produktbilder/Validoo/097610s.jpg"
+    },
+    {
+      "id": 8,
+      "name": "A Podcast Name",
+      "type": "Filmdragerad tablett",
+      "episide": "8",
+      "duration": "20mins",
+      "description": "Paracetamol",
+      "color": "3a62e8",
+      "image": "https://www.apoteket.se/produktbilder/Validoo/097610s.jpg"
+    },
+
+    {
+      "id": 9,
+      "name": "A Podcast Name",
+      "type": "Filmdragerad tablett",
+      "episide": "9",
+      "duration": "20mins",
+      "description": "Paracetamol",
+      "color": "3a62e8",
+      "image": "https://www.apoteket.se/produktbilder/Validoo/097610s.jpg"
+    },
+    {
+      "id": 10,
+      "name": "A Podcast Name",
+      "type": "Filmdragerad tablett",
+      "episide": "10",
+      "duration": "20mins",
+      "description": "Paracetamol",
+      "color": "3a62e8",
+      "image": "https://www.apoteket.se/produktbilder/Validoo/097610s.jpg"
+    },
+    {
+      "id": 11,
+      "name": "A Podcast Name",
+      "type": "Filmdragerad tablett",
+      "episide": "11",
+      "duration": "20mins",
+      "description": "Paracetamol",
+      "color": "3a62e8",
+      "image": "https://www.apoteket.se/produktbilder/Validoo/097610s.jpg"
+    },
+    {
+      "id": 12,
+      "name": "A Podcast Name",
+      "type": "Filmdragerad tablett",
+      "episide": "12",
+      "duration": "20mins",
+      "description": "Paracetamol",
+      "color": "3a62e8",
+      "image": "https://www.apoteket.se/produktbilder/Validoo/097610s.jpg"
+    }
+  ]
+}
