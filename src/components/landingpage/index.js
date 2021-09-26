@@ -6,32 +6,27 @@ const LandingPage = () => {
     <div className="homepage">
       <div className="hero">
         <div className="hero-content">
-          <h1>I'll be right back Podcast</h1>
-          <p>Something terifying!</p>
+          <h1>I'll be right back: The podcast</h1>
+          <p>Something terrifying is about to happen!</p>
         </div>
       </div>
 
       <section>
         <div className="section-content">
-          <h2>Something about our podcast</h2>
+          <h2>More about us!</h2>
           <p>We are Edith and Becki</p>
         </div>
       </section>
 
       <section>
         <div className="section-content">
-          <h2>Learn anywhere</h2>
-          <p>
-            Make your breaks and commutes more productive by learning through
-            your phone aswell. Lessons are quick and can be played anywhere.
-          </p>
+          <h2>Something else</h2>
+          <p>More content</p>
         </div>
       </section>
 
       <footer>
-        <div className="footer-content">
-          Learning Physics the fun way with DuoPhysics.
-        </div>
+        <div className="footer-content">Get in touch with us at .....</div>
       </footer>
     </div>
   );
