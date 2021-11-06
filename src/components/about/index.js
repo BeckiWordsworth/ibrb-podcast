@@ -3,9 +3,11 @@ import "./style.scss";
 
 const About = () => {
   return (
-    <div>
-      <p>I'll be right back Podcast</p>
-      <p>Something terifying!</p>
+    <div className="aboutPage">
+      <div className="section-content">
+        <p>I'll be right back Podcast</p>
+        <p>Something terifying!</p>
+      </div>
     </div>
   );
 };
